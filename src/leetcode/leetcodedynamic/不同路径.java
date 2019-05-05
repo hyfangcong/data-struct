@@ -25,7 +25,7 @@ public class 不同路径 {
     /**
      * 动态规划
      *
-     * 递推表达式：dp[i][j] = dp[i - 1][j - 1]
+     * 递推表达式：dp[i][j] =
      */
         public int uniquePaths2(int m, int n) {
             int[][] dp = new int[m][n];

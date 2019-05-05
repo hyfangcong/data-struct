@@ -17,6 +17,9 @@ public class Singleton {
         private static Singleton singleton = new Singleton();
     }
 
+
+
+
     private static Singleton getInstance2(){
         return InnerSingleton.singleton;
     }
