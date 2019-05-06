@@ -8,24 +8,9 @@ public class TTTT {
 
 
     public static void main(String[] args) {
-        HashMap<String, String> map = new HashMap();
-        map.put(null, null);
-        map.putIfAbsent(null, "fff");
-        map.putIfAbsent(null,"ddd");
-        map.put(null, "rrrr");
-
-
-        Set<String> set = new HashSet<>();
-        set.add(null);
-        System.out.println(set.iterator().next());
-
-
-        //二分搜索树中的元素才是有序的
-
-
-        ConcurrentHashMap<String, String> cor = new ConcurrentHashMap<>();
-        cor.put(null,null);
-        System.out.println(cor.get(null));
-        System.out.println(map.get(null));
+        int[] nums = {1,2,3};
+        int[] arr;
+        arr = nums;
+        System.out.println(arr == nums);
     }
 }

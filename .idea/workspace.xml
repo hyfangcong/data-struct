@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4154843a-73f2-4e2d-9629-8905587949de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/地下城游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/打家劫舍.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/打家劫舍II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大正方形.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/丑数II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索数组不可变.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索矩阵不可变.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最佳买卖股票时机含冷冻期.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长上升子序列.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/data-struct/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/最大正方形.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/最大正方形.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/最大矩形.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/最大矩形.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/不同路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/不同路径.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TTTT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TTTT.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,29 +41,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="最小覆盖子串.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/最小覆盖子串.java">
+      <file leaf-file-name="区域和检索数组不可变.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索数组不可变.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="292">
+              <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="分割回文串.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串.java">
+      <file leaf-file-name="区域和检索矩阵不可变.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索矩阵不可变.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="250">
+              <caret line="10" column="7" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="单词拆分.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分.java">
+      <file leaf-file-name="买卖股票的最佳时机.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="37" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+            <state relative-caret-position="600">
+              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="最佳买卖股票时机含冷冻期.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最佳买卖股票时机含冷冻期.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="戳气球.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="40" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="买卖股票的最佳时机III.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机III.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-50">
+              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="买卖股票的最佳时机IV.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机IV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="302">
+              <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -93,12 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bytedance/Man.java" />
-        <option value="$PROJECT_DIR$/src/Car.java" />
-        <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/Reflect.java" />
-        <option value="$PROJECT_DIR$/src/QIHU/Main1.java" />
-        <option value="$PROJECT_DIR$/src/QIHU/Main3.java" />
         <option value="$PROJECT_DIR$/src/QIHU/Main2.java" />
         <option value="$PROJECT_DIR$/src/tenxun2/Main2.java" />
         <option value="$PROJECT_DIR$/src/tenxun2/Main1.java" />
@@ -116,7 +147,6 @@
         <option value="$PROJECT_DIR$/src/bytedance2/Main5.java" />
         <option value="$PROJECT_DIR$/src/bytedance2/Main3.java" />
         <option value="$PROJECT_DIR$/src/bytedance2/Main2.java" />
-        <option value="$PROJECT_DIR$/src/TTTT.java" />
         <option value="$PROJECT_DIR$/src/huawei/Main2.java" />
         <option value="$PROJECT_DIR$/src/huawei/Main1.java" />
         <option value="$PROJECT_DIR$/src/wangyi/Main2.java" />
@@ -134,7 +164,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机III.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机IV.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串II.java" />
-        <option value="$PROJECT_DIR$/src/Singleton.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分II.java" />
@@ -144,6 +173,14 @@
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/打家劫舍II.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大矩形.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大正方形.java" />
+        <option value="$PROJECT_DIR$/src/Singleton.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/丑数II.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长上升子序列.java" />
+        <option value="$PROJECT_DIR$/src/TTTT.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索数组不可变.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索矩阵不可变.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最佳买卖股票时机含冷冻期.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java" />
       </list>
     </option>
   </component>
@@ -162,7 +199,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1940" />
@@ -232,20 +269,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.最大矩形">
-    <configuration name="三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.三数之和" />
-      <module name="data-struct" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="最大矩形" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.最大矩形" />
+  <component name="RunManager" selected="Application.戳气球">
+    <configuration name="区域和检索数组不可变" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.区域和检索数组不可变" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -255,8 +281,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="不同的二叉搜索树II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.不同的二叉搜索树II" />
+    <configuration name="戳气球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.戳气球" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -265,6 +291,33 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+    </configuration>
+    <configuration name="最长上升子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.最长上升子序列" />
+      <module name="data-struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="丑数II" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.丑数II" />
+      <module name="data-struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TTTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TTTT" />
+      <module name="data-struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="计数质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode2018.math.计数质数" />
@@ -440,14 +493,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.三数之和" />
-      <item itemvalue="Application.不同的二叉搜索树II" />
-      <item itemvalue="Application.最大矩形" />
+      <item itemvalue="Application.丑数II" />
+      <item itemvalue="Application.最长上升子序列" />
+      <item itemvalue="Application.TTTT" />
+      <item itemvalue="Application.区域和检索数组不可变" />
+      <item itemvalue="Application.戳气球" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.最大矩形" />
-        <item itemvalue="Application.不同的二叉搜索树II" />
+        <item itemvalue="Application.戳气球" />
+        <item itemvalue="Application.区域和检索数组不可变" />
+        <item itemvalue="Application.TTTT" />
+        <item itemvalue="Application.最长上升子序列" />
+        <item itemvalue="Application.丑数II" />
       </list>
     </recent_temporary>
   </component>
@@ -488,12 +546,12 @@
       <workItem from="1556247333372" duration="1981000" />
       <workItem from="1556610419332" duration="1736000" />
       <workItem from="1556619055081" duration="45243000" />
-      <workItem from="1556860303194" duration="19607000" />
+      <workItem from="1556860303194" duration="42658000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="442702000" />
+    <option name="totallyTimeSpent" value="465753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="0" />
@@ -509,8 +567,8 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3299866" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31009957" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2517781" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.24182077" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26031294" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2517781" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3085676" />
@@ -520,7 +578,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3658872" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24893314" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966533" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="BPMNPalette" order="5" />
@@ -802,8 +860,20 @@
           <properties />
           <option name="timeStamp" value="130" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/丑数II.java</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="131" />
+      <option name="time" value="139" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -909,55 +979,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/java/src.zip!/java/util/HashSet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="87" column="3" selection-start-line="87" selection-start-column="3" selection-end-line="87" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/src.zip!/java/util/TreeMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="113" column="1" selection-start-line="113" selection-start-column="1" selection-end-line="113" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/huawei/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reflect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun2/Main3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun2/Main1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/tenxun2/Main2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/alibaba/Main1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
@@ -1170,27 +1191,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机IV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -1198,38 +1198,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/最小覆盖子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/地下城游戏.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="30" column="96" lean-forward="true" selection-start-line="30" selection-start-column="96" selection-end-line="30" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大正方形.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -1273,8 +1245,111 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="18" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+        <state relative-caret-position="725">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/最小覆盖子串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Singleton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大正方形.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/丑数II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="43" column="7" lean-forward="true" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#195#196#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TTTT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" column="40" lean-forward="true" selection-start-line="13" selection-start-column="40" selection-end-line="13" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长上升子序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="43" column="30" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索数组不可变.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="59" column="27" lean-forward="true" selection-start-line="59" selection-start-column="27" selection-end-line="59" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索矩阵不可变.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机III.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机IV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="33" column="49" selection-start-line="33" selection-start-column="49" selection-end-line="33" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最佳买卖股票时机含冷冻期.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="40" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="40" />
         </state>
       </provider>
     </entry>

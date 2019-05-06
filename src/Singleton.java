@@ -20,6 +20,7 @@ public class Singleton {
 
 
 
+
     private static Singleton getInstance2(){
         return InnerSingleton.singleton;
     }
