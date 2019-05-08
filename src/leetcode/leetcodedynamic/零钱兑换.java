@@ -18,7 +18,7 @@ public class 零钱兑换 {
     int[] dp;
     public int coinChange(int[] coins, int amount) {
         dp = new int[amount + 1];
-        Arrays.sort(coins);
+        //Arrays.sort(coins);
         return coin(coins, amount);
     }
 
