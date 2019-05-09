@@ -2,19 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4154843a-73f2-4e2d-9629-8905587949de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/判断子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/和为K的数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/摆动序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大整除子集.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/猜数字大小II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/矩形区域不超过K的最大数值和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/组合总数IV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割数组的最大值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分II_子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/青蛙过河.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/俄罗斯套娃信封问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/俄罗斯套娃信封问题.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/零钱兑换.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/零钱兑换.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TTTT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TTTT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/组合总数IV.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/组合总数IV.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,56 +35,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="摆动序列.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/摆动序列.java">
+      <file leaf-file-name="分割数组的最大值.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割数组的最大值.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="375">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="组合总数IV.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/组合总数IV.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="判断子序列.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/判断子序列.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/java/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="1540" column="75" selection-start-line="1540" selection-start-column="75" selection-end-line="1540" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="计算各个位数不同的数字的个数.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/计算各个位数不同的数字的个数.java">
+      <file leaf-file-name="等差数列划分.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="零钱兑换.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java">
+      <file leaf-file-name="等差数列划分II_子序列.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分II_子序列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-167">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="182">
+              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="青蛙过河.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/青蛙过河.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="分割等和子集.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -121,11 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/bytedance2/Main1.java" />
-        <option value="$PROJECT_DIR$/src/bytedance2/Main5.java" />
-        <option value="$PROJECT_DIR$/src/bytedance2/Main3.java" />
-        <option value="$PROJECT_DIR$/src/bytedance2/Main2.java" />
-        <option value="$PROJECT_DIR$/src/huawei/Main2.java" />
         <option value="$PROJECT_DIR$/src/huawei/Main1.java" />
         <option value="$PROJECT_DIR$/src/wangyi/Main2.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/通配符匹配.java" />
@@ -155,7 +135,6 @@
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长上升子序列.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/区域和检索数组不可变.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最佳买卖股票时机含冷冻期.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/拼接最大数.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/解码方法.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/比特位计数.java" />
@@ -172,6 +151,12 @@
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/组合总数IV.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/判断子序列.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/青蛙过河.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割数组的最大值.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分II_子序列.java" />
       </list>
     </option>
   </component>
@@ -216,6 +201,19 @@
             </path>
             <path>
               <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcodedynamic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -251,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.零钱兑换">
+  <component name="RunManager" selected="Application.分割等和子集">
     <configuration name="零钱兑换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.零钱兑换" />
       <module name="data-struct" />
@@ -263,8 +261,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="俄罗斯套娃信封问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.俄罗斯套娃信封问题" />
+    <configuration name="青蛙过河" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.青蛙过河" />
+      <module name="data-struct" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="分割等和子集" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.分割等和子集" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -295,11 +304,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-    </configuration>
-    <configuration name="TTTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TTTT" />
-      <module name="data-struct" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="计数质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode2018.math.计数质数" />
@@ -475,19 +479,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.俄罗斯套娃信封问题" />
       <item itemvalue="Application.矩形区域不超过K的最大数值和" />
-      <item itemvalue="Application.TTTT" />
       <item itemvalue="Application.猜数字大小II" />
       <item itemvalue="Application.零钱兑换" />
+      <item itemvalue="Application.青蛙过河" />
+      <item itemvalue="Application.分割等和子集" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.分割等和子集" />
+        <item itemvalue="Application.青蛙过河" />
         <item itemvalue="Application.零钱兑换" />
         <item itemvalue="Application.猜数字大小II" />
         <item itemvalue="Application.矩形区域不超过K的最大数值和" />
-        <item itemvalue="Application.TTTT" />
-        <item itemvalue="Application.俄罗斯套娃信封问题" />
       </list>
     </recent_temporary>
   </component>
@@ -528,12 +532,12 @@
       <workItem from="1556247333372" duration="1981000" />
       <workItem from="1556610419332" duration="1736000" />
       <workItem from="1556619055081" duration="45243000" />
-      <workItem from="1556860303194" duration="105346000" />
+      <workItem from="1556860303194" duration="122645000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="528441000" />
+    <option name="totallyTimeSpent" value="545740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="1" />
@@ -549,7 +553,7 @@
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3299866" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31009957" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24182077" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24324325" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.2517781" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
@@ -560,7 +564,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.32290184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.28734" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24966533" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="BPMNPalette" order="5" />
@@ -812,12 +816,6 @@
           <option name="timeStamp" value="131" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/拼接最大数.java</url>
           <line>79</line>
           <properties />
@@ -890,8 +888,20 @@
           <properties />
           <option name="timeStamp" value="165" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="166" />
+      <option name="time" value="172" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -1007,41 +1017,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/打家劫舍II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/打家劫舍.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/单词拆分.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/最小覆盖子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Singleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大正方形.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -1099,23 +1074,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3400">
           <caret line="87" column="36" selection-start-line="87" selection-start-column="36" selection-end-line="87" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/拼接最大数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1319,13 +1277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/矩形区域不超过K的最大数值和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1408">
-          <caret line="110" column="5" lean-forward="true" selection-start-line="110" selection-start-column="5" selection-end-line="110" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/和为K的数组.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1347,48 +1298,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大整除子集.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/TTTT.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
           <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/摆动序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/计算各个位数不同的数字的个数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-167">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/组合总数IV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -1399,10 +1312,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/摆动序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/判断子序列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+        <state relative-caret-position="350">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/组合总数IV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/计算各个位数不同的数字的个数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="18" column="6" lean-forward="true" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/拼接最大数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="29" column="38" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大整除子集.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/矩形区域不超过K的最大数值和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="57" column="19" lean-forward="true" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割数组的最大值.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/青蛙过河.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分II_子序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
         </state>
       </provider>
     </entry>
