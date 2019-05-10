@@ -15,15 +15,20 @@ public class 最长上升子序列 {
             return 0;
 
         int n = nums.length;
+
+        /**
+         * dp[i]表示以i结尾的最长上升子序列的长度，最小值为1，即自己本身。
+         *
+         * 用max记录[0...i]中所有上升子序列的最大长度
+         */
         int[] dp = new int[n + 1];
         int max = 1;
         dp[0] = 0;
         dp[1] = 1;
         for (int i = 2; i <= n; i++) {
-            for (int j = i - 1; j >= 0; j--) {
-                if (j == 0)
-                    dp[i] = Math.max(dp[i] , 1);
-                else if (nums[i - 1] > nums[j - 1]) {
+            dp[i] = 1;
+            for (int j = i - 1; j >= 1; j--) {
+                if (nums[i - 1] > nums[j - 1]) {
                     dp[i] = Math.max(dp[i], dp[j] + 1);
                     max = max > dp[i] ? max : dp[i];
                 }
