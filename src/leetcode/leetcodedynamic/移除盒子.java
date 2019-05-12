@@ -36,6 +36,9 @@ public class 移除盒子 {
      *
      * max中的第一项表示： boxes[i]单独消掉
      * max中的第二项表示： boxes[i]和后面的boxes[m]一起消掉
+     *
+     *
+     *
      */
     int[][][] dp;
     public int removeBoxes(int[] boxes) {
