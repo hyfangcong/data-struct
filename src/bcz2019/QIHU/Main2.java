@@ -1,4 +1,4 @@
-package QIHU;
+package bcz2019.QIHU;
 
 import java.util.Arrays;
 import java.util.Scanner;

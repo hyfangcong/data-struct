@@ -1,4 +1,4 @@
-package wangyi;
+package bcz2019.wangyi;
 
 import java.util.HashSet;
 import java.util.Scanner;

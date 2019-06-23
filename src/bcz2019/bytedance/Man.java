@@ -1,4 +1,4 @@
-package bytedance;
+package bcz2019.bytedance;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;

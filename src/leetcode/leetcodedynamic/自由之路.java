@@ -9,7 +9,7 @@ import java.util.MissingFormatArgumentException;
  */
 public class 自由之路 {
     /**
-     * dp[i][j]表示转动得到key[0 ... i]中前i个字符所需要的最少的次数。j表示当前ring中的位置。并且ring[j] == key[i].
+     * 表示转动得dp[i][j]到key[0 ... i]中前i个字符所需要的最少的次数。j表示当前ring中的位置。并且ring[j] == key[i].
      *
      * 记录j的位置是因为此时j的位置就是12点钟，计算下一次的转动次数需要依赖此位置。
      *

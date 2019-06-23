@@ -2,10 +2,95 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4154843a-73f2-4e2d-9629-8905587949de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestSumAverages.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumSwapsMakeSequencesIncreasing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/SoupServings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_struct/sort/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_struct/sort/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data_struct/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumNumberRefuelingStops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/New21Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/PushDominoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长的斐波那契子序列的长度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/盈利计划.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/company/jingdong/Shopee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/company/jingdong/实现字通配符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/company/jingdong/建物流中转站.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/二叉树的下一个节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/删除链表中的重复节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/字符流中第一个不重复的字符.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/对称二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/序列化二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/把二叉树打印成多行.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/按之字形打印二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/正则表达式匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/表示数值的字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/jzof/链表中环的入口节点.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-struct.iml" beforeDir="false" afterPath="$PROJECT_DIR$/data-struct.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/QIHU/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/QIHU/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/QIHU/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/alibaba/Main1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/alibaba/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/alibaba/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance/Query$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance/Query.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance/珠串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance/连续位置上相同字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance2/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance2/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance2/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/bytedance2/Main5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/huawei/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/huawei/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/jingdong/Main1$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/jingdong/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/jingdong/Main2$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/jingdong/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/MaximumLengthOfPairChain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/MaximumLengthOfPairChain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/通配符匹配.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/leetcode/leetcodedynamic/通配符匹配.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/tenxun2/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/tenxun2/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/tenxun2/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/tenxun2019/奇妙的数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/tenxun2019/气球游戏.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/tenxun2019/硬币.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/wangyi/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/wangyi/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/wangyi/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QIHU/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/QIHU/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QIHU/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/QIHU/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/QIHU/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/QIHU/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TTTT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TTTT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alibaba/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/alibaba/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/alibaba/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/alibaba/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance/Query.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance/Query.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance/珠串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance/珠串.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance/连续位置上相同字符.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance/连续位置上相同字符.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance2/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance2/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance2/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance2/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance2/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bytedance2/Main5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/bytedance2/Main5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/huawei/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/huawei/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/huawei/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/huawei/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jingdong/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/jingdong/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/jingdong/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/jingdong/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestSumAverages.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestSumAverages.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthOfPairChain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthOfPairChain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/自由之路.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/自由之路.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/通配符匹配.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/leetcodedynamic/通配符匹配.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tenxun2/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/tenxun2/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tenxun2/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/tenxun2/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tenxun2/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/tenxun2/Main3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tenxun2019/奇妙的数列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/tenxun2019/奇妙的数列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tenxun2019/气球游戏.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/tenxun2019/气球游戏.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tenxun2019/硬币.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/tenxun2019/硬币.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wangyi/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/wangyi/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wangyi/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/wangyi/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/wangyi/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bcz2019/wangyi/Main3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,19 +124,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumSwapsMakeSequencesIncreasing.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/jzof/把二叉树打印成多行.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/StickersSpellWord.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
-              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="336">
+              <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,54 +136,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/SoupServings.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/jzof/序列化二叉树.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="639">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestSumAverages.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/jzof/链表中环的入口节点.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="189">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nkw/jzof/表示数值的字符串.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Objects.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/jzof/正则表达式匹配.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="58" column="54" lean-forward="true" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
-              <folding>
-                <element signature="e#1410#1411#0" expanded="true" />
-                <element signature="e#1471#1472#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="147" column="21" lean-forward="true" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
-              <folding>
-                <element signature="e#5748#5749#0" expanded="true" />
-                <element signature="e#5784#5785#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/Math.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="1312" column="44" selection-start-line="1312" selection-start-column="43" selection-end-line="1312" selection-end-column="44" />
+            <state relative-caret-position="189">
+              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -138,39 +197,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/矩形区域不超过K的最大数值和.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/猜数字大小II.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/摆动序列.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/零钱兑换.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/组合总数IV.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/判断子序列.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/青蛙过河.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割数组的最大值.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/等差数列划分II_子序列.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/我能赢吗.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/统计重复个数.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长上升子序列.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/环绕字符串中的唯一的子字符串.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/连接词.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/一和零.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/预测赢家.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/目标和.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/自由之路.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长回文子序列.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/超级洗衣机.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/连续子数组和.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/移除盒子.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大整除子集.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/学生出勤记录II.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/tttt.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/出界的路径数.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/K个逆序对数组.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/大礼包.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/解码方法2.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthOfPairChain.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/PalindromicSubstrings.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/KeysKeyboard.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/StrangePrinter.java" />
@@ -189,6 +216,38 @@
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumSwapsMakeSequencesIncreasing.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/SoupServings.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestSumAverages.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/New21Game.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/PushDominoes.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthOfPairChain.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumNumberRefuelingStops.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长的斐波那契子序列的长度.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/盈利计划.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/linkedlist/翻转链表II.java" />
+        <option value="$PROJECT_DIR$/src/data_struct/heap/Heap.java" />
+        <option value="$PROJECT_DIR$/src/data_struct/sort/QucikSort.java" />
+        <option value="$PROJECT_DIR$/src/data_struct/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/data_struct/sort/Heap.java" />
+        <option value="$PROJECT_DIR$/src/data_struct/sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/TTTT.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/自由之路.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/通配符匹配.java" />
+        <option value="$PROJECT_DIR$/src/company/jingdong/j2019/建物流中转站.java" />
+        <option value="$PROJECT_DIR$/src/company/jingdong/j2019/Shopee.java" />
+        <option value="$PROJECT_DIR$/src/company/jingdong/j2019/实现字通配符.java" />
+        <option value="$PROJECT_DIR$/src/nkw/j2019/实现字通配符.java" />
+        <option value="$PROJECT_DIR$/src/nkw/company/jingdong/建物流中转站.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/表示数值的字符串.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/字符流中第一个不重复的字符.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/链表中环的入口节点.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/删除链表中的重复节点.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/二叉树的下一个节点.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/对称二叉树.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/按之字形打印二叉树.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/把二叉树打印成多行.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/序列化二叉树.java" />
+        <option value="$PROJECT_DIR$/src/nkw/jzof/正则表达式匹配.java" />
       </list>
     </option>
   </component>
@@ -198,11 +257,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="2" />
-    <option name="width" value="1934" />
-    <option name="height" value="1037" />
+    <option name="width" value="1935" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -210,6 +268,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,21 +286,19 @@
               <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-struct" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="nkw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-struct" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcodedynamic" type="462c0819:PsiDirectoryNode" />
+              <item name="nkw" type="462c0819:PsiDirectoryNode" />
+              <item name="jzof" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,15 +306,15 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/11869/IdeaProjects/data-struct/src/leetcode/leetcodedynamic/通配符匹配.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558131535406" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561329747105" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -275,14 +333,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestPlusSign">
-    <configuration name="KnightProbabilityChessboard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.KnightProbabilityChessboard" />
+  <component name="RunManager" selected="Application.按之字形打印二叉树">
+    <configuration name="表示数值的字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.jzof.表示数值的字符串" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="PATTERN" value="nkw.jzof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,13 +348,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestPlusSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.LargestPlusSign" />
+    <configuration name="按之字形打印二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.jzof.按之字形打印二叉树" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="PATTERN" value="nkw.jzof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,13 +362,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberLongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.NumberLongestIncreasingSubsequence" />
+    <configuration name="实现字通配符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.company.jingdong.实现字通配符" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="PATTERN" value="nkw.company.jingdong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -318,13 +376,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StickersSpellWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.StickersSpellWord" />
+    <configuration name="正则表达式匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.jzof.正则表达式匹配" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="PATTERN" value="nkw.jzof.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,30 +390,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrangePrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.StrangePrinter" />
+    <configuration name="Shopee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.company.jingdong.Shopee" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
+          <option name="PATTERN" value="nkw.company.jingdong.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="通配符匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.leetcodedynamic.通配符匹配" />
-      <module name="data-struct" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.leetcodedynamic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="分数到小数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode2018.math.分数到小数" />
@@ -560,11 +607,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestPlusSign" />
-        <item itemvalue="Application.StickersSpellWord" />
-        <item itemvalue="Application.KnightProbabilityChessboard" />
-        <item itemvalue="Application.NumberLongestIncreasingSubsequence" />
-        <item itemvalue="Application.StrangePrinter" />
+        <item itemvalue="Application.按之字形打印二叉树" />
+        <item itemvalue="Application.表示数值的字符串" />
+        <item itemvalue="Application.正则表达式匹配" />
+        <item itemvalue="Application.实现字通配符" />
+        <item itemvalue="Application.Shopee" />
       </list>
     </recent_temporary>
   </component>
@@ -611,36 +658,42 @@
       <workItem from="1557663619070" duration="400000" />
       <workItem from="1557664077999" duration="888000" />
       <workItem from="1557664985789" duration="1308000" />
-      <workItem from="1557792429809" duration="70763000" />
+      <workItem from="1557792429809" duration="89208000" />
+      <workItem from="1558224602196" duration="751000" />
+      <workItem from="1558228475780" duration="1239000" />
+      <workItem from="1558310195834" duration="2626000" />
+      <workItem from="1559102814781" duration="5462000" />
+      <workItem from="1559646737276" duration="10691000" />
+      <workItem from="1560690197451" duration="49257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="663365000" />
+    <option name="totallyTimeSpent" value="751836000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="2" width="1547" height="829" extended-state="0" />
+    <frame x="-6" y="0" width="1548" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8672897" visible="true" weight="0.24378778" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8702011" visible="true" weight="0.2671141" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.13271028" side_tool="true" visible="true" weight="0.24378778" />
+      <window_info id="Favorites" order="5" sideWeight="0.1297989" side_tool="true" weight="0.24378778" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.203125" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2838983" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.17937852" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.15329513" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.042979944" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.23242468" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4226361" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31009957" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32627118" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3252149" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24966533" />
@@ -713,21 +766,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="right - left + 1 == 4" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/bytedance/连续位置上相同字符.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/bytedance/连续位置上相同字符.java</url>
           <line>41</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="right - left == 4" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/bytedance/连续位置上相同字符.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/bytedance/连续位置上相同字符.java</url>
           <line>48</line>
           <properties />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <condition expression="right - left == 4" language="JAVA" />
-          <url>file://$PROJECT_DIR$/src/bytedance/连续位置上相同字符.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/bytedance/连续位置上相同字符.java</url>
           <line>54</line>
           <properties />
           <option name="timeStamp" value="4" />
@@ -799,25 +852,25 @@
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tenxun2019/奇妙的数列.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/tenxun2019/奇妙的数列.java</url>
           <line>7</line>
           <properties />
           <option name="timeStamp" value="48" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tenxun2/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/tenxun2/Main2.java</url>
           <line>15</line>
           <properties />
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/tenxun2/Main3.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/tenxun2/Main3.java</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/wangyi/Main2.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/wangyi/Main2.java</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="55" />
@@ -847,19 +900,19 @@
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bytedance2/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/bytedance2/Main1.java</url>
           <line>27</line>
           <properties />
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bytedance2/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/bytedance2/Main1.java</url>
           <line>58</line>
           <properties />
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/bytedance2/Main1.java</url>
+          <url>file://$PROJECT_DIR$/src/bcz2019/bytedance2/Main1.java</url>
           <line>60</line>
           <properties />
           <option name="timeStamp" value="117" />
@@ -1070,17 +1123,69 @@
           <properties />
           <option name="timeStamp" value="207" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/New21Game.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/PushDominoes.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumNumberRefuelingStops.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/linkedlist/翻转链表II.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_struct/sort/QuickSort.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/data_struct/sort/QuickSort.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nkw/company/jingdong/建物流中转站.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i == 0 &amp;&amp; j == m" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/company/jingdong/实现字通配符.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nkw/jzof/按之字形打印二叉树.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nkw/jzof/按之字形打印二叉树.java</url>
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="points[k].y" />
-        <watch expression="memory[0][1]" />
-        <watch expression="memory[0][1]" language="JAVA" />
-        <watch expression="map" />
-        <watch expression="tar" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1088,6 +1193,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>i == 0 &amp;&amp; j == m</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == 0</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>i == m</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>i == nums.length - 1</expression-string>
         <language-id>JAVA</language-id>
@@ -1123,23 +1243,13 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>i == 2</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sum ==1</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>sum ==2</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>sums.length - k</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>dp[i][j]</expression-string>
         <language-id>JAVA</language-id>
@@ -1180,355 +1290,24 @@
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
-      <expression>
-        <expression-string>sIndex == s.length()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/一和零.java">
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Objects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/预测赢家.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="47" column="1" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/自由之路.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="-60">
+          <caret line="63" column="26" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长上升子序列.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumSwapsMakeSequencesIncreasing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="31" column="52" selection-start-line="31" selection-start-column="52" selection-end-line="31" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/java/src.zip!/java/util/Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/目标和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="303">
-          <caret line="53" column="7" selection-start-line="53" selection-start-column="7" selection-end-line="53" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割等和子集.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="38" column="31" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长回文子序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/超级洗衣机.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/连续子数组和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/戳气球.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/移除盒子.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/FFF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/FFFFF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/fffffff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/tttt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="44" lean-forward="true" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/出界的路径数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="33" column="31" lean-forward="true" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/K个逆序对数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大整除子集.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/解码方法2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthOfPairChain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/分割回文串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长回文子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="29" column="61" lean-forward="true" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/PalindromicSubstrings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-          <folding>
-            <element signature="e#164#165#0" expanded="true" />
-            <element signature="e#200#201#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/KeysKeyboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/大礼包.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/学生出勤记录II.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="3008" column="36" lean-forward="true" selection-start-line="3008" selection-start-column="36" selection-end-line="3008" selection-end-column="36" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/KnightProbabilityChessboard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumSum3NonOverlappingSubarrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/NumberLongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/StrangePrinter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/和为K的数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="38" column="13" lean-forward="true" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机III.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机IV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/买卖股票的最佳时机.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/PartitionKEqualSumSubsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumASCIIDeleteSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="28" column="43" lean-forward="true" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/BestTimeBuySellStockTransactionFee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="20" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthRepeatedSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/DeleteandEarn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="12" column="6" lean-forward="true" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinCostClimbingStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestPlusSign.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="44" column="13" lean-forward="true" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="1312" column="44" selection-start-line="1312" selection-start-column="43" selection-end-line="1312" selection-end-column="44" />
+        <state relative-caret-position="75">
+          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -1549,39 +1328,377 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumSwapsMakeSequencesIncreasing.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/New21Game.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="6" lean-forward="true" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        <state relative-caret-position="275">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinCostClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MaximumLengthOfPairChain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="21" column="47" lean-forward="true" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/最长的斐波那契子序列的长度.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/PushDominoes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="31" column="10" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/LargestSumAverages.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        <state relative-caret-position="525">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/MinimumNumberRefuelingStops.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="147" column="21" lean-forward="true" selection-start-line="147" selection-start-column="21" selection-end-line="147" selection-end-column="21" />
+        <state relative-caret-position="71">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Ibernate-2.0.jar!/org/lh/ibernate/config/DbPool.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="86" column="13" selection-start-line="86" selection-start-column="13" selection-end-line="86" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_struct/heap.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/翻转链表II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
           <folding>
-            <element signature="e#5748#5749#0" expanded="true" />
-            <element signature="e#5784#5785#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Objects.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/翻转链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="58" column="54" lean-forward="true" selection-start-line="58" selection-start-column="54" selection-end-line="58" selection-end-column="54" />
+        <state relative-caret-position="156">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding>
-            <element signature="e#1410#1411#0" expanded="true" />
-            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#168#169#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/linkedlist/重排链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_struct/sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="46" column="25" lean-forward="true" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_struct/sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/data_struct/sort/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Downloads/Ibernate-2.0.jar!/org/lh/ibernate/common/CommonUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/盈利计划.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="2392" column="38" selection-start-line="2392" selection-start-column="38" selection-end-line="2392" selection-end-column="38" />
+          <folding>
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/自由之路.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="15" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/不同路径.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/fallback/N皇后.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/company/jingdong/Shoopp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TTTT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/不同路径II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/company/jingdong/Shopee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/company/jingdong/实现字通配符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/company/jingdong/建物流中转站.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/leetcodedynamic/通配符匹配.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/字符流中第一个不重复的字符.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/删除链表中的重复节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/二叉树的下一个节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#825#826#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/对称二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="18" column="29" lean-forward="true" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/BlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="199" column="17" selection-start-line="199" selection-start-column="17" selection-end-line="199" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/concurrent/LinkedBlockingDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="77" column="18" selection-start-line="77" selection-start-column="18" selection-end-line="77" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/AbstractQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="57" column="34" lean-forward="true" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="161" column="12" selection-start-line="161" selection-start-column="12" selection-end-line="161" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="373" column="23" selection-start-line="373" selection-start-column="23" selection-end-line="373" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="984" column="33" selection-start-line="984" selection-start-column="33" selection-end-line="984" selection-end-column="33" />
+          <folding>
+            <element signature="e#23214#23215#0" expanded="true" />
+            <element signature="e#23241#23242#0" expanded="true" />
+            <element signature="e#29442#29443#0" expanded="true" />
+            <element signature="e#29489#29490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/按之字形打印二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/把二叉树打印成多行.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/序列化二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/链表中环的入口节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/表示数值的字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/jzof/正则表达式匹配.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1614,6 +1731,7 @@
       </state>
       <state key="GlobalLibrariesConfigurable.UI">
         <settings>
+          <last-edited>groovy-2.5.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

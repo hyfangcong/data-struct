@@ -1,12 +1,17 @@
-package data_struct.heap;
+package data_struct.sort;
 
 /**
  * @author: fangcong
  * @date: 2019/6/5
  */
+
+/**
+ * 堆排序
+ */
 public class Heap {
     public static void main(String[] args) {
         int[] arr = {15,4,10,9,7,3,8,90,3,7,11};
+        int[] arr2 = {8,7,6,5,4,3,2,1};
         Heap heap = new Heap();
         heap.heapSort(arr);
         for(int i = 0 ; i < arr.length ; i++){
@@ -16,9 +21,9 @@ public class Heap {
 
     public void heapSort(int[] arr){
         buildHeap(arr);
-        for(int i = arr.length; i > 1 ; i--){
-            swap(arr, 0, i - 1);
-            adjustHeap(arr, 0, i - 1);
+        for(int i = arr.length - 1; i > 0 ; i--){
+            swap(arr, 0, i );
+            adjustHeap(arr, 0, i );
         }
 
     }
@@ -47,4 +52,31 @@ public class Heap {
         arr[i] = arr[j];
         arr[j] = temp;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }

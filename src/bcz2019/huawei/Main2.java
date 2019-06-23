@@ -1,4 +1,4 @@
-package huawei;
+package bcz2019.huawei;
 
 import java.util.Scanner;
 

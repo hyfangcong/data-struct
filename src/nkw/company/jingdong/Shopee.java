@@ -1,4 +1,4 @@
-package company.jingdong.j2019;
+package nkw.company.jingdong;
 
 import java.util.Scanner;
 

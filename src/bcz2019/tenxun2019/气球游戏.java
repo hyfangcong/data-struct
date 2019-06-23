@@ -1,4 +1,4 @@
-package tenxun2019;
+package bcz2019.tenxun2019;
 
 import java.util.*;
 

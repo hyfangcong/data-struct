@@ -1,4 +1,4 @@
-package bytedance;
+package bcz2019.bytedance;
 
 import java.util.*;
 

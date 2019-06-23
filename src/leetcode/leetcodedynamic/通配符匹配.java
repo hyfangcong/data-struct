@@ -88,7 +88,7 @@ public class 通配符匹配 {
                 if(p.charAt(j - 1) == '*'){
                     //'*'匹配0个或者匹配s.charAt(i - 1)字符
                     //‘*'不匹配m[i - 1][j - 1],是由于*可能匹配d
-                    dp[i][j] = dp[i][j - 1] || ( i > 0 && dp[i - 1][j]);
+                    dp[i][j] = dp[i][j - 1]  || ( i > 0 && dp[i - 1][j]);
                 }else{
                     dp[i][j] = i > 0 && dp[i - 1][j - 1] && (s.charAt(i - 1) == p.charAt(j - 1) || p.charAt(j - 1) == '?');
                 }
@@ -99,7 +99,7 @@ public class 通配符匹配 {
 
     public static void main(String[] args) {
         String s = "abbabaaabbabbaababbabbbbbabbbabbbabaaaaababababbbabababaabbababaabbbbbbaaaabababbbaabbbbaabbbbababababbaabbaababaabbbababababbbbaaabbbbbabaaaabbababbbbaababaabbababbbbbababbbabaaaaaaaabbbbbaabaaababaaaabb";
-        String p = "*bb*";
+        String p = "*bb*****";
         System.out.println(isMatch(s, p));
         System.out.println(count);
     }

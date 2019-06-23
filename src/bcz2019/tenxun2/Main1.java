@@ -1,4 +1,4 @@
-package tenxun2;
+package bcz2019.tenxun2;
 
 import java.util.Arrays;
 import java.util.Scanner;

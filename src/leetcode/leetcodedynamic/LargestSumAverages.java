@@ -5,21 +5,31 @@ package leetcode.leetcodedynamic;
  * @date: 2019/5/17
  */
 public class LargestSumAverages {
+    public static void main(String[] args) {
+        LargestSumAverages tt = new LargestSumAverages();
+        int[] a = {1,2,3,4,5,6,7};
+        System.out.println(tt.largestSumOfAverages(a, 4));
+    }
+
     public double largestSumOfAverages(int[] A, int K) {
-        int n = A.length;
-        int[] sums = new int[n + 1];
-        for(int i = 0 ; i < n ; i ++){
-            sums[i + 1] = sums[i] + A[i];
+        int N = A.length;
+        double[][] memo = new double[N+1][N+1];
+        double cur = 0;
+        for (int i = 0; i < N; ++i) {
+            cur += A[i];
+            memo[i + 1][1] = cur / (i + 1);
         }
-        double max = 0.0;
-        for(int i = 1 ; i < n - 1; i ++) {
-            for(int j = i ; j < n - 1; j ++){
-                double avg1 = (sums[i] - sums[0]) / i;
-                double avg2 = (sums[j + 1] - sums[i]) / (j - i + 1);
-                double avg3 = (sums[n] - sums[j + 1]) / (n - j);
-                max = Math.max(max, avg1 + avg2 +avg3);
-            }
+        return search(N, K, A, memo);
+    }
+
+    public double search(int n, int k, int[] A, double[][] memo) {
+        if (memo[n][k] > 0) return memo[n][k];
+        if (n < k) return 0;
+        double cur = 0;
+        for (int i = n - 1; i > 0; --i) {
+            cur += A[i];
+            memo[n][k] = Math.max(memo[n][k], search(i, k - 1, A, memo) + cur / (n - i));
         }
-        return max;
+        return memo[n][k];
     }
 }

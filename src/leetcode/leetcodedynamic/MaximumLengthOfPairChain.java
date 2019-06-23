@@ -1,7 +1,6 @@
 package leetcode.leetcodedynamic;
 
 import java.util.Arrays;
-import java.util.Comparator;
 
 /**
  * @author: fangcong
