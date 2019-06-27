@@ -43,7 +43,7 @@ public class 正则表达式匹配 {
             }else
                 return helper(str, sIndex, pattern, pIndex + 2);
         }else{
-            if(pattern[pIndex] == '.' || (sIndex < str.length && pattern[pIndex] == str[sIndex])){
+            if(sIndex != str.length && (pattern[pIndex] == '.' || pattern[pIndex] == str[sIndex])){
                 return helper(str, sIndex + 1, pattern, pIndex + 1);
             }else
                 return false;
