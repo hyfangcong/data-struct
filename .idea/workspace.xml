@@ -2,19 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4154843a-73f2-4e2d-9629-8905587949de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/冒泡排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/奶牛编号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/平方串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/幸运子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/括号匹配深度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/最后一位.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/缺失的括号.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/传送门.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/球队打平.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/房间分配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/推箱子.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/用户喜好.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/nkw/xz2018/aiqiyi/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nkw/xz2018/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/nkw/xz2018/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/nkw/xz2018/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/data-struct/nkw/xz2018/bytedance/最大连续相同字串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/nkw/xz2018/bytedance/最大连续相同字串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nkw/xz2018/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nkw/xz2018/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,14 +43,72 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+            <state relative-caret-position="609">
+              <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/传送门.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/球队打平.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/房间分配.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/用户喜好.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="197" column="57" lean-forward="true" selection-start-line="197" selection-start-column="57" selection-end-line="197" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -89,10 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/nkw/jzof/按之字形打印二叉树.java" />
-        <option value="$PROJECT_DIR$/src/nkw/jzof/把二叉树打印成多行.java" />
-        <option value="$PROJECT_DIR$/src/nkw/jzof/序列化二叉树.java" />
-        <option value="$PROJECT_DIR$/src/nkw/jzof/数据流中的中位数.java" />
         <option value="$PROJECT_DIR$/src/nkw/jzof/滑动窗口的最大值.java" />
         <option value="$PROJECT_DIR$/src/nkw/jzof/机器人的运动范围.java" />
         <option value="$PROJECT_DIR$/src/nkw/xz2018/pinduoduo/最大乘积.java" />
@@ -138,8 +188,12 @@
         <option value="$PROJECT_DIR$/src/nkw/bytedance/传送门.java" />
         <option value="$PROJECT_DIR$/src/nkw/bytedance/球队打平.java" />
         <option value="$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/最后一位.java" />
-        <option value="$PROJECT_DIR$/src/nkw/xz2018/Main.java" />
         <option value="$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java" />
+        <option value="$PROJECT_DIR$/src/nkw/xz2018/Main.java" />
+        <option value="$PROJECT_DIR$/src/nkw/xz2018/bytedance/推箱子.java" />
+        <option value="$PROJECT_DIR$/src/nkw/xz2018/bytedance/房间分配.java" />
+        <option value="$PROJECT_DIR$/src/nkw/xz2018/bytedance/用户喜好.java" />
+        <option value="$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java" />
       </list>
     </option>
   </component>
@@ -195,6 +249,14 @@
               <item name="xz2018" type="462c0819:PsiDirectoryNode" />
               <item name="bytedance" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
+              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nkw" type="462c0819:PsiDirectoryNode" />
+              <item name="xz2018" type="462c0819:PsiDirectoryNode" />
+              <item name="pinduoduo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -206,7 +268,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/11869/IdeaProjects/data-struct/src/leetcode/leetcodedynamic/通配符匹配.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561765118510" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561818164733" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -233,9 +295,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.最大连续相同字串">
-    <configuration name="传送门" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.传送门" />
+  <component name="RunManager" selected="Application.用户喜好">
+    <configuration name="房间分配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.房间分配" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -248,8 +310,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="球队打平" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.球队打平" />
+    <configuration name="字母交换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.字母交换" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -262,13 +324,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="平方串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.aiqiyi.平方串" />
+    <configuration name="推箱子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.推箱子" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="nkw.xz2018.*" />
+          <option name="PATTERN" value="nkw.xz2018.bytedance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -276,8 +338,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最大连续相同字串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.最大连续相同字串" />
+    <configuration name="用户喜好" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.xz2018.bytedance.用户喜好" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -507,11 +569,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.最大连续相同字串" />
+        <item itemvalue="Application.用户喜好" />
+        <item itemvalue="Application.字母交换" />
+        <item itemvalue="Application.房间分配" />
+        <item itemvalue="Application.推箱子" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.球队打平" />
-        <item itemvalue="Application.传送门" />
-        <item itemvalue="Application.平方串" />
       </list>
     </recent_temporary>
   </component>
@@ -564,18 +626,18 @@
       <workItem from="1558310195834" duration="2626000" />
       <workItem from="1559102814781" duration="5462000" />
       <workItem from="1559646737276" duration="10691000" />
-      <workItem from="1560690197451" duration="131185000" />
+      <workItem from="1560690197451" duration="159078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="833764000" />
+    <option name="totallyTimeSpent" value="861657000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="0" width="1548" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7996289" visible="true" weight="0.23557048" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7996289" visible="true" weight="0.19530201" />
       <window_info id="Structure" order="1" sideWeight="0.20037106" side_tool="true" weight="0.23557048" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -584,13 +646,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.203125" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2277937" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.36389685" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30229226" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27793697" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3037249" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.23352435" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31009957" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.3252149" />
@@ -1109,12 +1171,6 @@
           <option name="timeStamp" value="254" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/nkw/xz2018/Main.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="255" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <condition expression="i == 2" language="JAVA" />
           <url>file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/平方串.java</url>
           <line>31</line>
@@ -1127,6 +1183,73 @@
           <properties />
           <option name="timeStamp" value="259" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/Main.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="node.py == node.by &amp;&amp; node.px == node.bx" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/推箱子.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="cur.x == cur.bx &amp;&amp; cur.y == cur.by" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/Main.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/房间分配.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/房间分配.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="sum == 2" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java</url>
+          <line>97</line>
+          <properties />
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="len-left-1 &lt;= m &amp;&amp; i - len &gt;= 0 &amp;&amp; chars[i-len] == chars[i]" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="k == 3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java</url>
+          <line>89</line>
+          <properties />
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="k == 3" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="max == 4" language="JAVA" />
+          <url>file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1137,52 +1260,52 @@
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
       <expression>
-        <expression-string>i == 2</expression-string>
+        <expression-string>max == 4</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>key == 1</expression-string>
+        <expression-string>k == 3</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>matrix[nx][ny] == '3'</expression-string>
+        <expression-string>sum == 2</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>len == 6</expression-string>
+        <expression-string>len-left-1 &lt;= m &amp;&amp; i - len &gt;= 0 &amp;&amp; chars[i-len] == chars[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i == 0 &amp;&amp; j == m</expression-string>
+        <expression-string>chars[i-len] == chars[i]</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i == 0</expression-string>
+        <expression-string>ch</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i == m</expression-string>
+        <expression-string>sum == 3</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>i == nums.length - 1</expression-string>
+        <expression-string>node.py == node.by &amp;&amp; node.px == node.bx</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>col1 == 1</expression-string>
+        <expression-string>cur.x == cur.bx &amp;&amp; cur.y == cur.by</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>col1 == 2</expression-string>
+        <expression-string>node.py == node.by</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
@@ -1236,78 +1359,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/循环数比较.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-231">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/拼凑三角形.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/拼凑正方形.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/数字游戏.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/红和绿.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="72" column="7" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/空中旅行.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/aiqiyi/青草游戏.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nkw/jzof/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1479,20 +1530,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/球队打平.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/传送门.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/lang/AbstractStringBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="237">
@@ -1517,17 +1554,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="76" column="21" selection-start-line="76" selection-start-column="21" selection-end-line="76" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-          <folding>
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1629,12 +1655,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java">
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        <state relative-caret-position="115">
+          <caret line="65" column="61" lean-forward="true" selection-start-line="65" selection-start-column="61" selection-end-line="65" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/wangyi/操作序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/wangyi/堆棋子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/pinduoduo/迷宫寻路.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/推箱子.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/最大连续相同字串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="29" column="47" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/传送门.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/球队打平.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/房间分配.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="197" column="57" lean-forward="true" selection-start-line="197" selection-start-column="57" selection-end-line="197" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/字母交换.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/xz2018/bytedance/用户喜好.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="5" column="20" lean-forward="true" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
           </folding>
         </state>
       </provider>

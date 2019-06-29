@@ -9,6 +9,7 @@ import java.util.Scanner;
  */
 
 /**
+ *
  * 连续区间问题可以使用滑动窗口
  */
 public class 最大连续相同字串 {
