@@ -8,11 +8,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args){
-        Scanner sc=new Scanner(System.in);
-        String s = sc.nextLine();
-        String[] strings = s.split(" ");
-        File file = new File("D:\\test.txt");
-
-        System.out.println(s);
+        System.out.println(17 & (1 << 3));
     }
 }
