@@ -19,6 +19,8 @@ public class 最大矩形 {
             }
         }
 
+        //利用dp数组构造单调栈
+
         int res = 0;
         for (int col = n - 1; col >= 0; col--) {
             for (int beginRow = 0; beginRow < m; beginRow++) {

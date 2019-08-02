@@ -62,15 +62,15 @@ public class N皇后 {
 
     public static void main(String[] args) {
         long start = System.nanoTime();
-        solveNQueens(6);
+        solveNQueens(15);
         System.out.println(res.size());
         System.out.println((System.nanoTime() - start) / 1000000000);
-        for(int i = 0 ; i < res.size(); i ++){
-            List<String> temp = res.get(i);
-            for(int j = 0; j < temp.size() ; j ++){
-                System.out.println(temp.get(j));
-            }
-            System.out.println();
-        }
+//        for(int i = 0 ; i < res.size(); i ++){
+//            List<String> temp = res.get(i);
+//            for(int j = 0; j < temp.size() ; j ++){
+//                System.out.println(temp.get(j));
+//            }
+//            System.out.println();
+//        }
     }
 }
