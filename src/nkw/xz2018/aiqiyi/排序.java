@@ -9,11 +9,11 @@ import java.util.Scanner;
  * @date: 2019/6/27
  */
 public class 排序 {
-//    static class Node{
+//    static class TreeNode{
 //        int index;
 //        int value;
 //
-//        public Node(int index, int value){
+//        public TreeNode(int index, int value){
 //            this.index = index;
 //            this.value = value;
 //        }
@@ -21,18 +21,18 @@ public class 排序 {
 //    public static void main(String[] args) {
 //        Scanner scanner = new Scanner(System.in);
 //        int n = scanner.nextInt();
-//        Node[] arr = new Node[n];
+//        TreeNode[] arr = new TreeNode[n];
 //        for(int i = 0; i < n ; i ++){
-//            arr[i] = new Node(i, scanner.nextInt());
+//            arr[i] = new TreeNode(i, scanner.nextInt());
 //        }
 //
 //        /**
 //         * sort使用的快速排序，快速排序是非稳定的排序
 //         * 因此不能用于用于比较索引
 //         */
-//       Arrays.sort(arr, new Comparator<Node>() {
+//       Arrays.sort(arr, new Comparator<TreeNode>() {
 //           @Override
-//           public int compare(Node o1, Node o2) {
+//           public int compare(TreeNode o1, TreeNode o2) {
 //               return o1.value - o2.value;
 //           }
 //       });

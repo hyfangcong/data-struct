@@ -3,11 +3,11 @@ package leetcode.leetcode2018.tree;
 public class 二叉树中最近的公共祖先 {
     /**
      * Definition for a binary tree node.
-     * public class TreeNode {
+     * public class FFFFF {
      * int val;
-     * TreeNode left;
-     * TreeNode right;
-     * TreeNode(int x) { val = x; }
+     * FFFFF left;
+     * FFFFF right;
+     * FFFFF(int x) { val = x; }
      * }
      */
 

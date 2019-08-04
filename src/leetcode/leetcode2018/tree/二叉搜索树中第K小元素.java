@@ -4,11 +4,11 @@ import java.util.TreeSet;
 
 /**
  * Definition for a binary tree node.
- * public class TreeNode {
+ * public class FFFFF {
  *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode(int x) { val = x; }
+ *     FFFFF left;
+ *     FFFFF right;
+ *     FFFFF(int x) { val = x; }
  * }
  */
 public class 二叉搜索树中第K小元素 {

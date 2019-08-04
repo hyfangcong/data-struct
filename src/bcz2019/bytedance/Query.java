@@ -16,7 +16,7 @@ public class Query {
         @Override
         public String toString(){
             StringBuilder builder = new StringBuilder();
-            builder.append("Node: [left:" + left + " right:" + right + " element:" + element + "]");
+            builder.append("TreeNode: [left:" + left + " right:" + right + " element:" + element + "]");
             return builder.toString();
         }
     }
