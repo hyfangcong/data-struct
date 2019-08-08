@@ -80,9 +80,9 @@ public class Huffman {
                 sum += level * root.num;
                 System.out.println(root.ch + "=>" + new String(res, 0, level));
             }else{
-                res[level] = '0'; //做分支为0
+                res[level] = '0'; //左分支为0
                 helper(root.left, level+1);
-                res[level] = '1'; //有分支为1
+                res[level] = '1'; //右分支为1
                 helper(root.right, level+1);
             }
         }

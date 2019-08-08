@@ -1,6 +1,6 @@
 package data_struct.stack;
 
-public interface Stack<E> {
+public interface MyStack<E> {
     int getSize();
     int getCapacity();
     void push(E e);

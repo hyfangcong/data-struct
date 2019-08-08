@@ -67,7 +67,7 @@ public class 最大子矩阵 {
         int maxArea = 0;
         Stack<Integer> stack = new Stack<>();
         for(int i = 0 ; i < height.length ;i ++){
-            while(!stack.isEmpty() && height[i] <= height[stack.peek()]){
+            while(!stack.isEmpty() && height[i] <= height[stack.peek()]){ //54564.对于高度相同的时候，只能够求出一个最大值，比如这里的4
                 int j = stack.pop();
                 int k = stack.isEmpty() ? -1 : stack.peek();
                 int curArea = (i - k - 1) * height[j];

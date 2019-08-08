@@ -1,18 +1,18 @@
 package data_struct.queue;
 
-public class LoopQueue<E> implements Queue<E> {
+public class LoopMyQueue<E> implements MyQueue<E> {
     private E[] data;
     private int front, tail;
     private int size;
 
-    public LoopQueue(int capacity){
+    public LoopMyQueue(int capacity){
         data = (E[]) new Object[capacity + 1];
         front = 0;
         tail = 0;
         size = 0;
     }
 
-    public LoopQueue(){
+    public LoopMyQueue(){
         this(10);
     }
 
@@ -70,7 +70,7 @@ public class LoopQueue<E> implements Queue<E> {
     @Override
     public String toString(){
         StringBuilder sb = new StringBuilder();
-        sb.append(String.format("LoopQueue: size: %d, capacity: %d\n", size, getCapacity()));
+        sb.append(String.format("LoopMyQueue: size: %d, capacity: %d\n", size, getCapacity()));
         sb.append("front [");
         for(int i = front; i != tail; i = (i + 1) % data.length){
             sb.append(data[i]);

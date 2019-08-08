@@ -2,14 +2,14 @@ package data_struct.stack;
 
 import data_struct.array.Array;
 
-public class ArrayStack<E> implements Stack<E> {
+public class ArrayMyStack<E> implements MyStack<E> {
     private Array<E> array;
 
-    public ArrayStack(int capacity){
+    public ArrayMyStack(int capacity){
         array = new Array<>(capacity);
     }
 
-    public ArrayStack() {
+    public ArrayMyStack() {
         array = new Array<>();
     }
 
@@ -41,7 +41,7 @@ public class ArrayStack<E> implements Stack<E> {
     @Override
     public String toString(){
         StringBuilder sb = new StringBuilder();
-        sb.append(String.format("Stack: size: %d, capacity: %d\n", array.getSize(), array.getCapacity()));
+        sb.append(String.format("MyStack: size: %d, capacity: %d\n", array.getSize(), array.getCapacity()));
         sb.append("[");
         for(int i = 0; i < array.getSize(); i++){
             sb.append(array.getElement(i));

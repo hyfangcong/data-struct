@@ -1,6 +1,6 @@
 package data_struct.queue;
 
-public interface Queue<E> {
+public interface MyQueue<E> {
     int getSize();
     int getCapacity();
     void enqueue(E e);
