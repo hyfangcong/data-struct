@@ -2,42 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4154843a-73f2-4e2d-9629-8905587949de" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/binarytree/二叉树上累加和为sum的最长路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/binarytree/是否是完全二叉树.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/回文最小分割数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/字符串的交错组成.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/括号匹配.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/新类型字符.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/最小编辑代价.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/汉罗塔.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/矩阵的最小路径和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/表达式计算.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CopyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/子数组的最大累加和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/斐波那契数列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/util/最长无重复子串.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/RRRR.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/TTTT$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/TTTT$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/TTTT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/queue/LoopQueue$TT.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/queue/LoopQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/queue/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/data_struct/queue/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/queue/Queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/stack/ArrayStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/stack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/data-struct/data_struct/stack/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/data-struct/data_struct/stack/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RRRR.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TTTT.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_struct/queue/LoopQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_struct/queue/LoopMyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_struct/queue/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_struct/queue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_struct/queue/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_struct/queue/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_struct/stack/ArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_struct/stack/ArrayMyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_struct/stack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_struct/stack/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data_struct/stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/data_struct/stack/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qz2019/liuliyinyushuo/Huffman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qz2019/liuliyinyushuo/Huffman.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,64 +41,74 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/矩阵的最小路径和.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/子数组的最大累加和.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="231">
+              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子序列.java">
+        <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/nio/file/Paths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="63">
+              <caret line="86" column="7" lean-forward="true" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子串.java">
+        <entry file="file://$PROJECT_DIR$/src/CopyFile.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            <state relative-caret-position="187">
+              <caret line="46" column="6" lean-forward="true" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最小编辑代价.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+            <state relative-caret-position="446">
+              <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/回文最小分割数.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/斐波那契数列.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/字符串的交错组成.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="22" column="52" lean-forward="true" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+            <state relative-caret-position="388">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/括号匹配.java">
+        <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长无重复子串.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
+            <state relative-caret-position="301">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+              <folding>
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -163,11 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/qz2019/pingduoduo/Main1.java" />
-        <option value="$PROJECT_DIR$/src/qz2019/pingduoduo/Main3.java" />
-        <option value="$PROJECT_DIR$/src/qz2019/pingduoduo/Main2.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/fallback/N皇后.java" />
-        <option value="$PROJECT_DIR$/src/qz2019/pingduoduo/Main.java" />
         <option value="$PROJECT_DIR$/src/qz2019/liuliyinyushuo/Main.java" />
         <option value="$PROJECT_DIR$/src/qz2019/liuliyinyushuo/Haffman.java" />
         <option value="$PROJECT_DIR$/src/leetcode/leetcodedynamic/最大矩形.java" />
@@ -193,7 +168,6 @@
         <option value="$PROJECT_DIR$/src/qz2019/yuanfudao/Main1.java" />
         <option value="$PROJECT_DIR$/src/nkw/xz2018/bytedance/推箱子.java" />
         <option value="$PROJECT_DIR$/src/qz2019/liuliyinyushuo/Huffman.java" />
-        <option value="$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java" />
         <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/天际线问题.java" />
         <option value="$PROJECT_DIR$/src/RRRR.java" />
         <option value="$PROJECT_DIR$/src/Animal.java" />
@@ -214,6 +188,12 @@
         <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/回文最小分割数.java" />
         <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/字符串的交错组成.java" />
         <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/括号匹配.java" />
+        <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/子数组的最大累加和.java" />
+        <option value="$PROJECT_DIR$/src/A.java" />
+        <option value="$PROJECT_DIR$/src/CopyFile.java" />
+        <option value="$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java" />
+        <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/斐波那契数列.java" />
+        <option value="$PROJECT_DIR$/src/nkw/zsjinjie/util/最长无重复子串.java" />
       </list>
     </option>
   </component>
@@ -246,12 +226,6 @@
               <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
               <item name="data-struct" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
-              <item name="data-struct" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="data_struct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="data-struct" type="b2602c69:ProjectViewProjectNode" />
@@ -290,7 +264,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/11869/IdeaProjects/data-struct/src/leetcode/leetcodedynamic/通配符匹配.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565255384943" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565338366586" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../o2o" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -317,9 +291,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.括号匹配">
-    <configuration name="最小编辑代价" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.最小编辑代价" />
+  <component name="RunManager" selected="Application.最长无重复子串">
+    <configuration name="斐波那契数列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.斐波那契数列" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -332,8 +306,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="字符串的交错组成" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.字符串的交错组成" />
+    <configuration name="最长无重复子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.最长无重复子串" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -360,8 +334,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最长公共子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.最长公共子串" />
+    <configuration name="子数组的最大累加和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.子数组的最大累加和" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -374,16 +348,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="回文最小分割数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="nkw.zsjinjie.util.回文最小分割数" />
+    <configuration name="CopyFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CopyFile" />
       <module name="data-struct" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="nkw.zsjinjie.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -731,11 +699,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.最长无重复子串" />
+        <item itemvalue="Application.斐波那契数列" />
+        <item itemvalue="Application.CopyFile" />
+        <item itemvalue="Application.子数组的最大累加和" />
         <item itemvalue="Application.括号匹配" />
-        <item itemvalue="Application.字符串的交错组成" />
-        <item itemvalue="Application.回文最小分割数" />
-        <item itemvalue="Application.最小编辑代价" />
-        <item itemvalue="Application.最长公共子串" />
       </list>
     </recent_temporary>
   </component>
@@ -793,12 +761,12 @@
       <workItem from="1562632803556" duration="80966000" />
       <workItem from="1564642960549" duration="11801000" />
       <workItem from="1564708013161" duration="60759000" />
-      <workItem from="1565224805705" duration="10468000" />
+      <workItem from="1565224805705" duration="19182000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1076268000" />
+    <option name="totallyTimeSpent" value="1084982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1548" height="831" extended-state="0" />
@@ -813,13 +781,13 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.28428572" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35336193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.10729614" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.8683834" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2857143" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2846924" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.31009957" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32428572" />
@@ -1700,43 +1668,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/kmp/应用二.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/topk/Heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/topk/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/topk/BFPRT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util.java" />
-    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/util/Comparators.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="76" column="36" selection-start-line="76" selection-start-column="36" selection-end-line="76" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/binarytree/FFFFF.java" />
     <entry file="file://$PROJECT_DIR$/src/leetcode/leetcode2018/tree/二叉树中最近的公共祖先.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
@@ -1914,13 +1845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/data_struct/stack/MyStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -2052,20 +1976,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子序列.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最小编辑代价.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="372">
@@ -2089,8 +1999,88 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/括号匹配.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="68" column="47" selection-start-line="68" selection-start-column="47" selection-end-line="68" selection-end-column="47" />
+        <state relative-caret-position="-2">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长公共子序列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="34" lean-forward="true" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/子数组的最大累加和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1169">
+          <caret line="1520" column="19" selection-start-line="1520" selection-start-column="19" selection-end-line="1520" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_211/src.zip!/java/nio/file/Paths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="86" column="7" lean-forward="true" selection-start-line="86" selection-start-column="7" selection-end-line="86" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CopyFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="46" column="6" lean-forward="true" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/dandiaozhan/最大子矩阵.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="81" column="41" selection-start-line="81" selection-start-column="41" selection-end-line="81" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/斐波那契数列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nkw/zsjinjie/util/最长无重复子串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
