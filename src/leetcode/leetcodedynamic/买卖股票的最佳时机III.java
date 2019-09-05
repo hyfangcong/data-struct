@@ -1,6 +1,33 @@
 package leetcode.leetcodedynamic;
 
 public class 买卖股票的最佳时机III {
+
+    public static void main(String[] args) {
+        int[] arr = {3,3,5,0,0,3,1,4};
+        int profit = maxProfit2(arr);
+        System.out.println(profit);
+    }
+
+
+    public static int maxProfit2(int[] prices) {
+        int n = prices.length;
+        int max_k = 2;
+        int[][][] dp = new int[n][max_k+1][2];
+        for(int i = 0; i < n; i ++){
+            for(int k = max_k; k >= 1; k --){
+                if(i == 0){
+                    dp[i][k][0] = 0;
+                    dp[i][k][1] = -prices[i];
+                    continue;
+                }
+                dp[i][k][0] = Math.max(dp[i-1][k][0], dp[i-1][k][1]+prices[i]);
+                dp[i][k][1] = Math.max(dp[i-1][k][1], dp[i-1][k-1][0]-prices[i]);
+            }
+        }
+        return n == 0 ? 0 : dp[n-1][max_k][0];
+    }
+
+
     public int maxProfit(int[] prices) {
 
         /**

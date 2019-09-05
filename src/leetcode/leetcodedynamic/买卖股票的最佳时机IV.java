@@ -18,7 +18,6 @@ public class 买卖股票的最佳时机IV {
         for(int p : prices){
             trans[0][0] = Math.max(trans[0][0], -p);
             trans[0][1] = Math.max(trans[0][1], trans[0][0] + p);
-
             for(int i = 1; i < k ; i ++){
                 trans[i][0] = Math.max(trans[i][0], trans[i - 1][1] - p);
                 trans[i][1] = Math.max(trans[i][1], trans[i][0] + p);
