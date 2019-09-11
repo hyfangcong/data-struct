@@ -7,8 +7,20 @@ public class Singleton {
         private static Singleton singleton = new Singleton();
     }
 
-
     public static Singleton getInstance(){
         return InnerSingleton.singleton;
+    }
+
+    private static volatile Singleton singleton;
+
+    public static Singleton getInstance2(){
+        if(singleton == null){
+            synchronized (Singleton.class){
+                if(singleton == null){
+                    singleton = new Singleton();
+                }
+            }
+        }
+        return singleton;
     }
 }
